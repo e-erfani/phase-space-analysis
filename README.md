@@ -12,4 +12,5 @@ Codes are developed to encompass the broad range of conditions present in low ma
 - See the beginning of each code for the required Python3 libraries.
 
 ### The analyses are featured in:
-Erfani, E., R. Wood, P. Blossey, S. Doherty, R. Eastman, 2022: Using a phase space of environmental variables to drive an ensemble of cloud-resolving simulations of low marine clouds, American Geophysical Union (AGU) Fall Meeting, Chiacago, IL, 12-16 Dec. 2022.
+Erfani, E., Wood, R., Blossey, P., Doherty, S., Eastman, R. (2022). Using a phase space of environmental variables to drive an ensemble of cloud-resolving simulations of low marine clouds, American Geophysical Union (AGU) Fall Meeting: Chicago, IL, 12-16 Dec. 2022, http://doi.org/10.13140/RG.2.2.25888.66562
+
